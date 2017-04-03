@@ -1,0 +1,20 @@
+{
+    "clé1" :
+    {
+        "àlaböneclé1":
+        [
+            "banane",
+            "orange",
+            "fraise"
+        ]
+    },
+    "clé2" : 
+    {
+        "àlaböneclé1":
+        [
+            "kiwi",
+            "pomme",
+            "mangue"
+        ]
+    }
+}
